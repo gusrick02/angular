@@ -209,9 +209,9 @@ header {
 }
 
 footer {
-    background-color: #f8f9fa;
+    background-color: #ffffff;
     padding: 20px;
-    text-align: center;
+    text-align-last: left;
 }
 
 .footer-container {
@@ -227,9 +227,9 @@ footer {
 }
 
 .footer-section h4 {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     font-size: 16px;
-    color: #333;
+    color: #656566;
 }
 
 .footer-section ul {
@@ -238,12 +238,13 @@ footer {
 }
 
 .footer-section ul li {
-    margin: 5px 0;
+    margin: 15px 0;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .footer-section ul li a {
     text-decoration: none;
-    color: #333;
+    color: #656566;
     transition: color 0.3s;
 }
 
@@ -253,6 +254,5 @@ footer {
 
 .footer-bottom {
     margin-top: 20px;
-    color: #666;
+    color: #ffffff;
 }
-
